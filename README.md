@@ -4,7 +4,7 @@ This repository has basic leetcode problems solved where the file name represent
 
 <h1>Links are given accordingly below:</h1>
 
-<h3><ins>In the java folder:</ins></h3>h3
+<h3><ins>In the java folder:</ins></h3>
 
 GroupAnagrams.java:[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=daily-question&envId=2024-02-06)
 
