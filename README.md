@@ -46,7 +46,9 @@ uniqueNumberOfOccurence.java:[Unique Number Of Occurence](https://leetcode.com/p
 
 validParentheses.java:[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
-longestSubstring.java: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+longestSubstring.java: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+canPlaceFlowers.java: [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 
 <h3><ins>In the cpp folder:</ins></h3>
 
