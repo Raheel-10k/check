@@ -46,6 +46,8 @@ uniqueNumberOfOccurence.java:[Unique Number Of Occurence](https://leetcode.com/p
 
 validParentheses.java:[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
+longestSubstring.java: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
