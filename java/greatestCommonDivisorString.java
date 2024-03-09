@@ -1,36 +1,38 @@
 public class greatestCommonDivisorString {
-    public static String gcd(String str1, String str2) {
-        if(str2.length()>str1.length()) {
-            String temp = str1;
-            str1 = str2;
-            str2 = temp;
-        }
+    public String gcdOfStrings(String str1, String str2) {
+        int len1 = str1.length();
+        int len2 = str2.length();
+        int gcdLength = gcd(len1, len2);
+        String candidate = str1.substring(0, gcdLength);
 
-        if(str2.length()==0) {
-            return str1;
+        if (isDivisor(candidate, str1) && isDivisor(candidate, str2)) {
+            return candidate;
+        } 
+        else {
+            return "";
         }
-
-        String gcd="";
-        int i=0;
-        while(i<str2.length() && str1.charAt(i)==str2.charAt(i)) {
-            gcd=gcd+str2.charAt(i);
-            i++;
-        }
-
-        if (gcd.length() > 0) {
-            String rem = str1.substring(i);
-            String res=gcd(str2.substring(i), rem);
-            if(res.length()>0 && str1.equals(gcd+res+res)) {
-                return (gcd+res);
-            }
-        }
-
-        return "";
     }
 
-    public static void main(String[] args) {
-        System.out.println(gcd("ABCABC", "ABC"));
-        System.out.println(gcd("ABABAB", "ABAB"));
-        System.out.println(gcd("LEET", "CODE"));
+    private int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
+    private boolean isDivisor(String candidate, String str) {
+        int candidateLength = candidate.length();
+        int strLength = str.length();
+        if (strLength % candidateLength != 0) {
+            return false;
+        }
+        for (int i = 0; i < strLength; i += candidateLength) {
+            if (!str.substring(i, i + candidateLength).equals(candidate)) {
+                return false;
+            }
+        }
+        return true;
     }
 }
