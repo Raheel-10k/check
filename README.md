@@ -28,7 +28,7 @@ greatestCommonDivisorString.java: [Greatest Common Divisor Of Strings](https://l
 
 isSubsequence.java:[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 
-maxConsecutiveOnes.java: Unaccepted by Leetcode. Have to solve syntax error in it.
+maxConsecutiveOnes.java: [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/submissions/1199758347/)
 
 mergeStringAlternately.java:[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 
