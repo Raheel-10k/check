@@ -24,7 +24,7 @@ findSmallestLetterGreaterThanTarget.java: [find Smallest Letter Greater Than Tar
 
 firstuniqueCharacter.java:[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1167036442/?envType=daily-question&envId=2024-02-05)
 
-greatestCommonDivisorString.java: Unaccepted by leetcode. Have to edit it further
+greatestCommonDivisorString.java: [Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 
 isSubsequence.java:[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 
