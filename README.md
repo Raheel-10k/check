@@ -1,6 +1,8 @@
-This repository has basic leetcode problems solved where the file name represents the title used for the particular question on leetCode platform. These leetcode problems are solved in the following few languages: Java, C++ and JavaScript. Depending on the understanding of language.
+This repository has basic leetcode problems solved where the file name represents the title used for the particular question on leetCode platform. These leetcode problems are solved in the following few languages: Java, C++ and JavaScript, Python. Depending on the understanding of language.
 
 > NOTE:The codes may not always run independently as they are mostly saved as solution snippets for matching leetCode pattern. Please read the snippets carefully adn implement accordingly.
+
+> Format for links: filename: [Leetcode Problem Name] (linked): cautions (if any)
 
 <h1>Links are given accordingly below:</h1>
 
