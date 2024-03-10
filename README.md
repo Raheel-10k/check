@@ -50,6 +50,8 @@ longestSubstring.java: [Longest Substring Without Repeating Characters](https://
 
 canPlaceFlowers.java: [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 
+stringCompression.java: [String Compression](https://leetcode.com/problems/string-compression/)
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
