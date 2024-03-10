@@ -53,3 +53,5 @@ canPlaceFlowers.java: [Can Place Flowers](https://leetcode.com/problems/can-plac
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+kidsWithGreatestNumberOfCandies.cpp: [Kids With Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
