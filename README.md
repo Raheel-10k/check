@@ -2,7 +2,7 @@ This repository has basic leetcode problems solved where the file name represent
 
 > NOTE:The codes may not always run independently as they are mostly saved as solution snippets for matching leetCode pattern. Please read the snippets carefully and implement accordingly.
 
-> Format for links: filename: [Leetcode Problem Name]->(linked): cautions (if any)
+> Format for links: filename: Leetcode Problem Name->(linked): cautions (if any)
 
 <h1>Links are given accordingly below:</h1>
 
