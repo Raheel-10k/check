@@ -57,6 +57,8 @@ stringCompression.java: [String Compression](https://leetcode.com/problems/strin
 guessNumberHigherOrLower.java: [Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower): This is
 a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it. Simpler terms- just the guessNumber() function.
 
+maxNumberOfKPairs.java: [Max Number Of K Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
