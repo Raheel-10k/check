@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class firstuniqueCharacter {
     public int firstUniqChar(String s) {
         HashMap<Character, Integer> map = new HashMap<>();
 
