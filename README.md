@@ -67,6 +67,8 @@ sortCharactersByFrequency.java: [Sort Characters By Frequency](https://leetcode.
 
 longestPalindromeSubstring.java: [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
+harshadNumber.java: [Harshad Number](https://leetcode.com/problems/harshad-number/description/)
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
