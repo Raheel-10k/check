@@ -79,6 +79,8 @@ increasingTriplets.cpp: [Increasing Triplet Subsequence](https://leetcode.com/pr
 
 reverseKGroups.cpp: [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) : This is a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it.
 
+maximumAverageSubarrayI.java: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) : This is a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it.
+
 <h3><ins>In the javascript folder:</ins></h3>
 
 regularExpressionMatching.js: [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
