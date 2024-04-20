@@ -59,6 +59,12 @@ a fully executable file which should NOT BE submitted as it is on leetcode, rath
 
 maxNumberOfKPairs.java: [Max Number Of K Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 
+removingStarsFromAString.java: [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+
+GroupAnagrams.java: [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+sortCharactersByFrequency.java: [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
