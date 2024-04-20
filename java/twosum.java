@@ -1,5 +1,5 @@
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
+class twoSum {
+    public int[] two_sum(int[] nums, int target) {
         int[] result = new int[2];
 
         for (int i = 0; i < nums.length; i++) {
