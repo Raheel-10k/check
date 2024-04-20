@@ -76,3 +76,5 @@ MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/p
 kidsWithGreatestNumberOfCandies.cpp: [Kids With Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 increasingTriplets.cpp: [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+reverseKGroups.cpp: [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) : This is a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it.
