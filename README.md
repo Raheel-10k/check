@@ -69,6 +69,8 @@ longestPalindromeSubstring.java: [Longest Palindrome Substring](https://leetcode
 
 harshadNumber.java: [Harshad Number](https://leetcode.com/problems/harshad-number/description/)
 
+substringsWithConcateOfAllWords.java: [Substring With Concatenation Of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
@@ -84,3 +86,5 @@ maximumAverageSubarrayI.java: [Maximum Average Subarray I](https://leetcode.com/
 <h3><ins>In the javascript folder:</ins></h3>
 
 regularExpressionMatching.js: [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+
+combinationSum.js: [Combination Sum](https://leetcode.com/problems/combination-sum/)
