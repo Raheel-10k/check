@@ -71,6 +71,8 @@ harshadNumber.java: [Harshad Number](https://leetcode.com/problems/harshad-numbe
 
 substringsWithConcateOfAllWords.java: [Substring With Concatenation Of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
 
+maximumAverageSubarrayI.java: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) : This is a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it.
+
 <h3><ins>In the cpp folder:</ins></h3>
 
 MedianOfTwoSortedArrays.cpp:[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
@@ -80,8 +82,6 @@ kidsWithGreatestNumberOfCandies.cpp: [Kids With Greatest Number Of Candies](http
 increasingTriplets.cpp: [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 
 reverseKGroups.cpp: [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) : This is a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it.
-
-maximumAverageSubarrayI.java: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) : This is a fully executable file which should NOT BE submitted as it is on leetcode, rather just the logic of it.
 
 <h3><ins>In the javascript folder:</ins></h3>
 
