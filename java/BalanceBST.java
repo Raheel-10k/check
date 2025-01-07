@@ -1,15 +1,15 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class TreeNode {
+public class BalanceBST {
     int val;
-    TreeNode left;
-    TreeNode right;
+    BalanceBST left;
+    BalanceBST right;
 
     // Constructors
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
+    BalanceBST() {}
+    BalanceBST(int val) { this.val = val; }
+    BalanceBST(int val, BalanceBST left, BalanceBST right) {
         this.val = val;
         this.left = left;
         this.right = right;
@@ -32,7 +32,7 @@ public class TreeNode {
 
 
 class Solution {
-    private void inorderTraversal(TreeNode root, List<Integer> values) {
+    private void inorderTraversal(BalanceBST root, List<Integer> values) {
         if (root == null) {
             return;
         }
@@ -41,18 +41,18 @@ class Solution {
         inorderTraversal(root.right, values); 
     }
 
-    private TreeNode sortedArrayToBST(List<Integer> values, int start, int end) {
+    private BalanceBST sortedArrayToBST(List<Integer> values, int start, int end) {
         if (start > end) {
             return null;
         }
         int mid = start + (end - start) / 2;
-        TreeNode node = new TreeNode(values.get(mid));  
+        BalanceBST node = new BalanceBST(values.get(mid));  
         node.left = sortedArrayToBST(values, start, mid - 1); 
         node.right = sortedArrayToBST(values, mid + 1, end);  
         return node;
     }
 
-    public TreeNode balanceBST(TreeNode root) {
+    public BalanceBST balanceBST(BalanceBST root) {
         List<Integer> values = new ArrayList<>();
         inorderTraversal(root, values);
 
